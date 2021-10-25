@@ -1,0 +1,38 @@
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\bin\Debug\netcoreapp3.1\Activity Tracker.exe
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\bin\Debug\netcoreapp3.1\Activity Tracker.deps.json
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\bin\Debug\netcoreapp3.1\Activity Tracker.runtimeconfig.json
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\bin\Debug\netcoreapp3.1\Activity Tracker.runtimeconfig.dev.json
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\bin\Debug\netcoreapp3.1\Activity Tracker.dll
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\bin\Debug\netcoreapp3.1\Activity Tracker.pdb
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\bin\Debug\netcoreapp3.1\Activity Tracker.Views.dll
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\bin\Debug\netcoreapp3.1\Activity Tracker.Views.pdb
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.csproj.AssemblyReference.cache
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.AssemblyInfoInputs.cache
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.AssemblyInfo.cs
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.csproj.CoreCompileInputs.cache
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.RazorAssemblyInfo.cache
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.RazorAssemblyInfo.cs
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\staticwebassets\Activity Tracker.StaticWebAssets.Manifest.cache
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\staticwebassets\Activity Tracker.StaticWebAssets.xml
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\scopedcss\bundle\Activity Tracker.styles.css
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.TagHelpers.input.cache
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.TagHelpers.output.cache
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.RazorCoreGenerate.cache
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.RazorTargetAssemblyInfo.cache
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.RazorTargetAssemblyInfo.cs
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.Views.pdb
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.dll
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.pdb
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.genruntimeconfig.cache
+C:\Users\ajlar\source\repos\Activity Tracker\Activity Tracker\obj\Debug\netcoreapp3.1\Activity Tracker.csproj.CopyComplete
